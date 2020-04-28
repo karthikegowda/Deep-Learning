@@ -5,5 +5,5 @@ Hardware Used:
 Nvidia Jetson Nano Board
 
 Software Used:
-Python
+Python, 
 TensorFlow API
