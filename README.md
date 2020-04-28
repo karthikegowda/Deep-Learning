@@ -3,3 +3,7 @@ A Framework for Fast, Scalable Binarized Neural Network Inference using Googlene
 
 Hardware Used:
 Nvidia Jetson Nano Board
+
+Software Used:
+Python
+TensorFlow API
