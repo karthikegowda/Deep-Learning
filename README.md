@@ -10,5 +10,7 @@ TensorFlow API
 
 Video Links:
 https://youtu.be/i7jyaP2vH1c    (Googlenet with TL)
+
 https://youtu.be/_ORTrxhsXeE    (Googlenet without TL)	
+
 https://youtu.be/blbpwTLFy7I    (Tensorflow API)
