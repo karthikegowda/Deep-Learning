@@ -1,13 +1,6 @@
 # Deep-Learning
 A Framework for Fast, Scalable Binarized Neural Network Inference using Googlenet and Transfer Learning.
 
-Hardware Used:
-Nvidia Jetson Nano Board
-
-Software Used:
-Python, 
-TensorFlow API
-
 Research Paper Referred: 
 
 https://arxiv.org/abs/1612.07119
