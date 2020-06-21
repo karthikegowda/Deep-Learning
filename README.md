@@ -9,6 +9,7 @@ Python,
 TensorFlow API
 
 Research Paper Referred: 
+
 https://arxiv.org/abs/1612.07119
 
 Video Links:
