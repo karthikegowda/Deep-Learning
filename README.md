@@ -8,6 +8,8 @@ Software Used:
 Python, 
 TensorFlow API
 
+Research Paper Referred: https://arxiv.org/abs/1612.07119
+
 Video Links:
 
 https://youtu.be/i7jyaP2vH1c    (Googlenet with TL)
